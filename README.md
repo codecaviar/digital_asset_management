@@ -56,8 +56,8 @@ Any specific distribution policy in our GitHub repositories contains additional 
 
 In addition to the General Guidelines above, your app developer name and everything about your app (including the app name, icon, description, graphics and screenshots) must be unique and free of BingYune & Co trademarks unless (1) you've received prior written permission from BingYune & Co or (2) you're only using a BingYune & Co wordmark to describe that your app works with BingYune & Co's data products and as long as your app icon and/or name:
 
-    * Does not suggest or give the impression your app is actually published by, affiliated with or endorsed by BingYune & Co; and
-    * Denotes your own unique identity so as to clearly signal to users that there is no affiliation with or endorsement by BingYune & Co.
+* Does not suggest or give the impression your app is actually published by, affiliated with or endorsed by BingYune & Co; and
+* Denotes your own unique identity so as to clearly signal to users that there is no affiliation with or endorsement by BingYune & Co.
 
 For example, you cannot name your app "Right Brain Numb3rs NewApp Wrapper." However, it would be acceptable to name your app "NewApp Wrapper for Right Brain Numb3rs."
 
