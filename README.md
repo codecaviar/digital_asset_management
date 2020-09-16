@@ -5,11 +5,11 @@
 ----------
 
 # BingYune & Company LLC
-# BingYune & Co - Trademark Guidelines
+# BingYune & Co Trademark Guidelines
 
 BingYune & Co supports open source projects. Because we make our code available to download and modify, proper use of our trademarks is essential to inform users whether or not BingYune & Co stands behind a product or service. When using BingYune & Co trademarks you must comply with these BingYune & Co Trademark Guidelines.
 
-A list of BingYune & Co's trademarks can be found here: ![Home Page](https://www.bingyune.com). However, that is not a complete list of our names, logos, and brand features, all of which are subject to these guidelines.
+A list of BingYune & Co's trademarks can be found here: [Home Page](https://www.bingyune.com). However, that is not a complete list of our names, logos, and brand features, all of which are subject to these guidelines.
 
 If you want to report misuse of a BingYune & Co trademark, please contact us here: support@bingyune.com
 
@@ -31,10 +31,10 @@ You may do the following without receiving specific permission from BingYune & C
 **Do:**
 
 * Give a BingYune & Co logo adequate spacing from the other elements on the web page or document (see the BingYune & Co Logo Guidelines below).
-* Use the BingYune & Co trademark exactly as shown on our ![Home Page](https://www.bingyune.com).
+* Use the BingYune & Co trademark exactly as shown on our [Home Page](https://www.bingyune.com).
 * Use BingYune & Co wordmarks only as an adjective, never as a noun or verb.
 * Do not use them in plural or possessive forms. Instead, use the generic term for the BingYune & Co product or service following the trademark. For example: Right Brain Numb3rs app, Next Move Playbook guidebook, Tiny Desk Leader toolkit.
-* Include a trademark attribution notice. Use a clearly visible notice to provide attribution to BingYune & Co, such as: “[BingYune & Co trademark] is a trademark of the BingYune & Co in the US.”
+* Include a trademark attribution notice. Use a clearly visible notice to provide attribution to BingYune & Co, such as: "[BingYune & Co trademark] is a trademark of the BingYune & Co in the US."
 
 **Don't:**
 
@@ -43,7 +43,7 @@ You may do the following without receiving specific permission from BingYune & C
 * Don't use BingYune & Co trademarks in a way that incorrectly implies affiliation with, or sponsorship, endorsement, or approval by BingYune & Co of your products or services.
 * Don't display BingYune & Co trademarks more prominently than your product, service, or company name.
 * Don't use BingYune & Co trademarks on merchandise for sale (e.g., selling t-shirts, mugs, etc.)
-* Don't use BingYune & Co trademarks for any other form of commercial use (e.g. offering technical support services), unless such use is limited to a truthful and descriptive reference (e.g. “Independent technical support for BingYune & Co's Right Brain Numb3rs app”).
+* Don't use BingYune & Co trademarks for any other form of commercial use (e.g. offering technical support services), unless such use is limited to a truthful and descriptive reference (e.g."Independent technical support for BingYune & Co's Right Brain Numb3rs app").
 * Don't modify BingYune & Co's trademarks, abbreviate them, or combine them with any other symbols, words, or images, or incorporate them into a tagline or slogan.
 
 # Additional Guidelines
@@ -59,13 +59,13 @@ In addition to the General Guidelines above, your app developer name and everyth
     * Does not suggest or give the impression your app is actually published by, affiliated with or endorsed by BingYune & Co; and
     * Denotes your own unique identity so as to clearly signal to users that there is no affiliation with or endorsement by BingYune & Co.
 
-For example, you cannot name your app “Right Brain Numb3rs NewApp Wrapper”. However, it would be acceptable to name your app "NewApp Wrapper for Right Brain Numb3rs”.
+For example, you cannot name your app "Right Brain Numb3rs NewApp Wrapper." However, it would be acceptable to name your app "NewApp Wrapper for Right Brain Numb3rs."
 
 ## Social Media Guidelines
 
 In addition to the General Guidelines above, the name and handle of your social media account and any and all pages cannot begin with a BingYune & Co trademark. In addition, BingYune & Co logos cannot be used in a way that might suggest affiliation with BingYune & Co, including, but not limited to, the account, profile, or header images. The only exception to these requirements is if you've received prior permission from BingYune & Co.
 
-For example, you cannot name your account, page, or community “BingYune & Co Representatives” or “Right Brain Numb3rs Program” However, it would be acceptable to name your account, page, or community “Fans of Right Brain Numb3rs” or “Information about BingYune & Co Data” as long as you do not use the Right Brain Numb3rs or BingYune & Co logos or otherwise suggest any affiliation with BingYune & Co.
+For example, you cannot name your account, page, or community "BingYune & Co Representatives" or "Right Brain Numb3rs Program" However, it would be acceptable to name your account, page, or community "Fans of Right Brain Numb3rs" or "Information about BingYune & Co Data" as long as you do not use the Right Brain Numb3rs or BingYune & Co logos or otherwise suggest any affiliation with BingYune & Co.
 
 ## Open Source Project Guidelines
 
