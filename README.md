@@ -107,3 +107,9 @@ https://www.bingyune.com/pages/privacy-policy
 
 ## Terms
 https://www.bingyune.com/pages/terms
+
+----------
+
+The doc referenced the following:
+* https://www.mozilla.org/en-US/foundation/trademarks/policy/
+* https://www.mozilla.org/en-US/foundation/trademarks/distribution-policy/
